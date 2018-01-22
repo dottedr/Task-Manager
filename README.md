@@ -6,14 +6,10 @@ For database connection I used PDO.
 I played a bit with Ajax to display notifications about changes made and error.
 
 Soon I plan to add:
-
 Add new fields
-
 Validation of user input 
 
 
 Possible changes in the future: 
-
 User could have an account
-
 Mobile app
