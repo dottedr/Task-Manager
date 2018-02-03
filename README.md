@@ -12,5 +12,6 @@ Add new fields and validate them
 
 
 Possible changes in the future: 
+
 User could have an account 
-and a Mobile app
+and a mobile app
